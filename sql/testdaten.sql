@@ -1,0 +1,2 @@
+INSERT INTO `projekt` (`id`, `titel`, `erledigungsgrad`) VALUES (NULL, 'Projekt1', '0'), (NULL, 'Projekt2', '0');
+INSERT INTO `projekt` (`id`, `titel`, `erledigungsgrad`) VALUES (NULL, 'Projekt3', '0'), (NULL, 'Projekt4', '0');
